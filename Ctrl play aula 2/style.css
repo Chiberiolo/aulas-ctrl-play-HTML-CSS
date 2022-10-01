@@ -1,0 +1,14 @@
+p
+{
+ color: aquamarine;
+}
+
+img
+{
+border: 15px solid greenyellow;/*borda solida com cor amarelo/verde */
+min-width: 200px;/*tamanho da imagem*/
+min-height: 300px;
+max-width: 400px;
+max-height: 600px;
+border-radius: 500px;/*borda redonda*/
+}
